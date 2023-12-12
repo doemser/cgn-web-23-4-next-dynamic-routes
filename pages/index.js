@@ -4,7 +4,7 @@ export default function HomePage() {
   return (
     <div>
       <h1>Next.js Dynamic Routes</h1>
-      <Link href="/movies">Go to movies overview</Link>
+      <Link href="/dogs">Dogs</Link>
     </div>
   );
 }
